@@ -1,0 +1,1 @@
+This is the fifth project for Prodigy InfoTech as a Web Development intern. I was asked to build a web page using HTML, Javascript and CSS that fetches weather data from a weather API based on any user-inputted location and displays the current weather conditions and temperature.
